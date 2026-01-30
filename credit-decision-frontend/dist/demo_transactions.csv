@@ -1,0 +1,54 @@
+date,description,amount,type
+2026-01-01,Salary Credit,50000,credit
+2026-01-02,Uber Ride,250,debit
+2026-01-03,Grocery Shopping - DMart,3500,debit
+2026-01-05,Netflix Subscription,799,debit
+2026-01-06,Restaurant - Zomato,1200,debit
+2026-01-07,Petrol - Shell,2000,debit
+2026-01-08,Electricity Bill,1500,debit
+2026-01-10,School Fees,8000,debit
+2026-01-12,Medical - Apollo Pharmacy,850,debit
+2026-01-15,Salary Credit,50000,credit
+2026-01-16,Ola Cab,180,debit
+2026-01-17,Amazon Shopping,2500,debit
+2026-01-18,Grocery - BigBazaar,4000,debit
+2026-01-20,Movie Tickets - PVR,600,debit
+2026-01-22,Petrol,1800,debit
+2026-01-23,Water Bill,400,debit
+2026-01-25,Tuition Fees,5000,debit
+2026-01-26,Doctor Consultation,1000,debit
+2026-01-28,Swiggy Food Order,800,debit
+2026-01-30,Spotify Premium,119,debit
+2025-12-01,Salary Credit,50000,credit
+2025-12-02,Metro Card Recharge,500,debit
+2025-12-03,Vegetables - Local Market,1200,debit
+2025-12-05,Amazon Prime,299,debit
+2025-12-07,Cafe Coffee Day,350,debit
+2025-12-08,Diesel,2200,debit
+2025-12-10,Gas Cylinder,900,debit
+2025-12-12,College Fees,12000,debit
+2025-12-15,Salary Credit,50000,credit
+2025-12-16,Auto Rickshaw,120,debit
+2025-12-17,Flipkart Shopping,3500,debit
+2025-12-18,Grocery Store,3800,debit
+2025-12-20,Gaming - Steam,1500,debit
+2025-12-22,Parking Fee,100,debit
+2025-12-23,Internet Bill,999,debit
+2025-12-25,Book Purchase,800,debit
+2025-12-26,Hospital Bill,2500,debit
+2025-12-28,Restaurant Dinner,1800,debit
+2025-12-30,Gym Membership,2000,debit
+2025-11-01,Salary Credit,50000,credit
+2025-11-03,Uber,300,debit
+2025-11-05,Supermarket,4200,debit
+2025-11-07,Netflix,799,debit
+2025-11-10,Education Course,6000,debit
+2025-11-12,Medicine,650,debit
+2025-11-15,Salary Credit,50000,credit
+2025-11-16,Bus Pass,800,debit
+2025-11-18,Mall Shopping,2800,debit
+2025-11-20,Groceries,3600,debit
+2025-11-22,Concert Tickets,2500,debit
+2025-11-25,Fuel,1900,debit
+2025-11-28,Clinic Visit,800,debit
+2025-11-30,Online Course,4500,debit
